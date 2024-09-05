@@ -23,7 +23,7 @@ export const items = [
   { name: 'Item 5', description: 'Descrição do Item 5' },
 ];
 
-// Renderizando o componente Exercicio_03 em Lista com os itens
+// resolvendo o componente Exercicio_03 em Lista com os itens
 <Exercicio_04 items={items} />;
 
 
