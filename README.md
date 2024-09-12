@@ -1,6 +1,11 @@
 # React_Native_P5
 1 aula 1 exercício
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/134bfef2-80a8-4c12-b79a-5f29b55ced2b" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+
 ![1000027888](https://github.com/user-attachments/assets/134bfef2-80a8-4c12-b79a-5f29b55ced2b)
+
 1 aula 2 exercício
 ![1000027889](https://github.com/user-attachments/assets/c66fba16-3139-4e05-80ff-5aee3abb7932)
 1 aula 3 exercício
