@@ -38,17 +38,32 @@
 </p>
 
 2 aula 2 exercício
- ![Captura de Tela (2)](https://github.com/user-attachments/assets/7fdf009d-b133-4384-9ae9-66b38c96f4e1)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7fdf009d-b133-4384-9ae9-66b38c96f4e1" alt="Descrição da Imagem" width="300" height="auto">
+</p>
 
 2 aula 3 exercício
-![Captura de Tela (3)](https://github.com/user-attachments/assets/c598e079-d813-441a-b91e-18c1157b3e06)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c598e079-d813-441a-b91e-18c1157b3e06" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+
 
 2 aula 4 exercício
-![Captura de Tela (4)](https://github.com/user-attachments/assets/bd538cbb-f787-4c22-87a2-5e4395d35fbc)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd538cbb-f787-4c22-87a2-5e4395d35fbc" alt="Descrição da Imagem" width="300" height="auto">
+</p>
 
 2 aula 5 exercício
-![Captura de Tela (5)](https://github.com/user-attachments/assets/cebbc347-ade3-46b9-b03b-b182eab8d477)
-![Captura de Tela (6)](https://github.com/user-attachments/assets/4279c637-139a-495b-8e11-a1f1142c3a96)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cebbc347-ade3-46b9-b03b-b182eab8d477" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4279c637-139a-495b-8e11-a1f1142c3a96" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+
 
 
 
