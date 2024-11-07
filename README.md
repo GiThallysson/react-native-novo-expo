@@ -64,6 +64,30 @@
   <img src="https://github.com/user-attachments/assets/4279c637-139a-495b-8e11-a1f1142c3a96" alt="Descrição da Imagem" width="300" height="auto">
 </p>
 
+3 aula 1 exercício
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c41e10c4-fdf8-4dbf-817f-86a9875c0513" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70696998-2575-4a16-a0cd-229772f8e823" alt="Descrição da Imagem" width="300" height="auto">
+</p>
 
+3 aula desafio 1 exercício
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd564824-406a-4a5e-bf5b-79de1d884454" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df9c8658-fb89-48b3-86b0-019f5562b2f3" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7492cedf-69df-4ede-86d5-59b7985d89e7" alt="Descrição da Imagem" width="300" height="auto">
+</p>
 
+4 aula 1 exercício
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd034fd8-c6ed-47f4-a4f8-c70c78ac3297" alt="Descrição da Imagem" width="300" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4f4584c-8caf-4393-8558-93aad1cf7200" alt="Descrição da Imagem" width="300" height="auto">
+</p>
 
